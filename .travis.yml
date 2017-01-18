@@ -29,7 +29,7 @@ script:
 
 notifications:
     email:
-        - phansys@gmail.com
+        - will@willwh.com
 
 branches:
     only:
